@@ -1,2 +1,5 @@
 import rich
+import openai
+
+
 
